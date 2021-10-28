@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Cristiano Coelho 🖐️
 
-Desenvolvedor Frontend que deseja compartilhar seus conhecimentos. Buscando sempre evoluir e melhorar 💻 
+Desenvolvedor que deseja compartilhar seus conhecimentos. Buscando sempre evoluir e melhorar 💻 
 
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristianocoe)
